@@ -1,0 +1,7 @@
+slug: il-spy
+title: IL Spy
+category: reverse engineering
+difficulty: medium
+points: 275
+codec: xorb64
+repo_url: https://github.com/sparflag/il-spy
